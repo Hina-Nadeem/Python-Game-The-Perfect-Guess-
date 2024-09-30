@@ -24,26 +24,6 @@ Welcome to the **Number Guessing Game**! This is a fun and interactive Python pr
 
 - **Python 3.x**: Ensure you have Python installed on your machine. This game utilizes Python's built-in `random` module.
 
-## 🛠️ Installation
-
-To get started with the Number Guessing Game, follow these simple steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd number-guessing-game
-   ```
-
-3. **Run the Game**:
-   Execute the game with Python:
-   ```bash
-   python number_guessing_game.py
-   ```
-
 ## 🔍 Code Overview
 
 Here's a brief look at how the game works:
