@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # Number Guessing Game
 
 Welcome to the Number Guessing Game! This is a simple Python program where the player tries to guess a randomly generated number between 1 and 50.
@@ -36,20 +34,19 @@ The Number Guessing Game is an interactive command-line game that allows users t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   https://github.com/Hina-Nadeem/Python-Game-The-Perfect-Guess-.git
 Navigate to the project directory:
 bash
 Copy code
-cd number-guessing-game
+cd Python-Game-The-Perfect-Guess
 Usage
 Run the game using the following command:
 
 bash
 Copy code
-python number_guessing_game.py
+Python-Game-The-Perfect-Guess.py
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-typescript
-Copy code
+
 
